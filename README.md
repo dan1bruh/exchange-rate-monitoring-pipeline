@@ -9,7 +9,6 @@
 
 ## Architecture
 
-      ```text
       Frankfurter REST API
               |
               v
